@@ -22,6 +22,7 @@
 
 **Скриншот**
 
+![2](https://github.com/NikolayAntipov/DB_2/blob/main/img/2.JPG)
 
 
 ## Задание 3. Удаление по TTL в Memcached
@@ -31,7 +32,7 @@
 
 **Скриншот**
 
-
+![2](https://github.com/NikolayAntipov/DB_2/blob/main/img/3.JPG)
 
 ## Задание 4. Запись данных в Redis
 Запишите в Redis несколько ключей с любыми именами и значениями.
@@ -39,3 +40,9 @@
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
 **Скриншот**
+
+Установлен Redis
+![4_1](https://github.com/NikolayAntipov/DB_2/blob/main/img/4_1.JPG)
+
+Работа с ключами
+![4_2](https://github.com/NikolayAntipov/DB_2/blob/main/img/4_2.JPG)
